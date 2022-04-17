@@ -13,8 +13,8 @@ All instructions can be found at [draculatheme.com/psychopy](https://draculathem
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
 | [![Aleksej Chaichan](https://github.com/alexchaichan.png?size=100)](https://github.com/alexchaichan)  |
-| ------------------------------------------------------------------------------------------------------ |
-| [Aleksej Chaichan](https://github.com/alexchaichan)                                                       |
+| ------------------------------------------------------------------------------------------------------|
+| [Aleksej Chaichan](https://github.com/alexchaichan)                                                   |
 
 ## Community
 
