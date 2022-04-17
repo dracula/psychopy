@@ -1,5 +1,8 @@
 ### [PsychoPy](https://github.com/psychopy/psychopy)
 
+#### Install [PsychoPy](https://www.psychopy.org/index.html)-standalone
+
+
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
