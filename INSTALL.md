@@ -2,6 +2,7 @@
 
 #### Install [PsychoPy](https://www.psychopy.org/index.html)-standalone
 
+- [Installation](https://www.psychopy.org/download.html)
 
 #### Install using Git
 
