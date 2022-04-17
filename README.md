@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [PsychoPy](https://github.com/psychopy/psychopy)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [PsychoPy](https://www.psychopy.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/psychopy](https://draculatheme.com/psychopy).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [![Aleksej Chaichan](https://github.com/alexchaichan.png?size=100)](https://github.com/alexchaichan)  |
+| ------------------------------------------------------------------------------------------------------ |
+| [Aleksej Chaichan](https://github.com/alexchaichan)                                                       |
 
 ## Community
 
