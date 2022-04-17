@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/psychopy/ar
 
 #### Activating theme
 
-1. `- cp ~/psychopy/dracula.json ~/.psychopy3/themes`
+1. `cp ~/psychopy/dracula.json ~/.psychopy3/themes`
 
 2. activate under Preferences > Application > theme > dracula : OK
