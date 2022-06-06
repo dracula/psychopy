@@ -1,8 +1,4 @@
-### [PsychoPy](https://github.com/psychopy/psychopy)
-
-#### Install [PsychoPy](https://www.psychopy.org/index.html)-standalone
-
-- [Installation](https://www.psychopy.org/download.html)
+### [PsychoPy](https://www.psychopy.org/)
 
 #### Install using Git
 
@@ -16,6 +12,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/psychopy/ar
 
 #### Activating theme
 
-1. `cp ~/psychopy/dracula.json ~/.psychopy3/themes`
-
-2. activate under Preferences > Application > theme > dracula : OK
+1. Copy theme file: `cp ~/psychopy/dracula.json ~/.psychopy3/themes`
+2. Activate under `Preferences > Application > theme > dracula : OK`
